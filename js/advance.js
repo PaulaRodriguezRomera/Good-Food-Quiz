@@ -2,7 +2,7 @@
   const myQuestions = [
     {
       id: 7,
-      question: "Very popular snack made from fried dough pastry, cut into sausage shapes and doused in sugar. Dipping them in hot melted chocolate is pretty much the law.",
+      question: "Very popular snack made from fried dough pastry, cut into sausage shapes and doused in sugar.",
       answers: {
         a: "German sausages",
         b: "Churros",
@@ -38,7 +38,7 @@
 
     {
       id: 10,
-      question: "This is a traditional Scottish pudding, similar to a trifle. It is layered dessert, consisting of whipped cream, toasted oats, and juicy raspberries. Of course, it would not be scottish without a touch of whiskey in the mix!",
+      question: "This is a traditional Scottish pudding, similar to a trifle. It is layered dessert, consisting of whipped cream, toasted oats, and juicy raspberries.",
       answers: {
         a: "Scones",
         b: "Cranachan",

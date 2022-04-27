@@ -2,7 +2,7 @@
   const myQuestions = [
     {
       id: 4, 
-      question: "This tasty breakfast has the simplest ingridients. This dish made of sliced bread soaked in beaten eggs and typically milk, then pan fried. An alternative name is Eggy bread.",
+      question: "This tasty breakfast has the simplest ingridients. This dish made of sliced bread soaked in beaten eggs and typically milk, then pan fried.",
       answers: {
         a: "French toast",
         b: "Pasta",

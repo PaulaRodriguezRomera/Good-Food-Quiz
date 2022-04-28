@@ -302,6 +302,14 @@ button {
   padding: 10px 20px;
   margin-top: 18%;
 }
+
+.restart {
+  padding-top: 55%;
+ }
+
+ .start-button {
+  margin-right:-10%;
+}
 }
 
 /*TABLETS*/

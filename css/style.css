@@ -250,11 +250,58 @@ button:hover {
  /*MEDIA DISPLAYS*/
 
  /* DESKTOPS*/
-@media all and (min-width: 1024px) {
+@media (min-width: 1200px) and (max-width: 1600px) {
   .img_container img {
-   min-width: 80%;
-   max-width: 100%; 
-  }
+    min-width: 80%;
+    max-width: 100%; 
+   }
+   .img_container .start-button {
+     width: 80px;
+     right:  55%;
+   }
+
+.quiz-container {
+  margin-left:7%;
+  margin-right: 7%;
+  padding-bottom: 35%;
+  margin-bottom: auto;
+}
+.id {
+  font-size: 50px;
+  margin-left: 43%;
+  margin-top: 2%;
+}
+
+.slide #img img {
+  margin-bottom: 3%;
+  margin-top: 2%;
+}
+
+.question {
+  font-size: 12px;
+  margin-bottom: 18px;
+  margin-top: -3%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.answers {
+  text-align: left;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.answers label {
+  display: block;
+  margin-bottom: 12px;
+}
+
+button {
+  width: 180px;
+  font-size: 12px;
+  padding: 10px 20px;
+  margin-top: 18%;
+}
 }
 
 /*TABLETS*/
